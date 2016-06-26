@@ -16,22 +16,28 @@ public class inicio extends AppCompatActivity {
 
         setContentView(R.layout.activity_inicio);
 
-       // new Handler().postDelayed(new Runnable(){
-
-        //    public void run(){
-
-          //  }
-//        },4000);
-
-
+        Thread timerThread = new Thread(){
+            public void run(){
+                try{
+                    sleep(4000);
+                }catch(InterruptedException e){
+                    e.printStackTrace();
+                }finally{
+                    Intent intent = new Intent(inicio.this, pantallaInicio.class);
+                    startActivity(intent);
+                }
+            }
+        };
+        timerThread.start();
     }
 
 
 
-    public void cargar(View v){
-
-        Intent i = new Intent(inicio.this, pantallaInicio.class);
-        startActivity(i);
+    @Override
+    protected void onPause() {
+        // TODO Auto-generated method stub
+        super.onPause();
+        finish();
     }
 
 
