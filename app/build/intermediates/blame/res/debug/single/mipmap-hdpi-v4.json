@@ -1,10 +1,10 @@
 [
     {
-        "merged": "C:\\Users\\David\\Documents\\GitHub\\Proyecto\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4\\images.jpeg",
-        "source": "C:\\Users\\David\\Documents\\GitHub\\Proyecto\\app\\src\\main\\res\\mipmap-hdpi\\images.jpeg"
+        "merged": "/home/david/AndroidStudioProjects/juegpFiesta/app/build/intermediates/res/merged/debug/mipmap-hdpi-v4/ic_launcher.png",
+        "source": "/home/david/AndroidStudioProjects/juegpFiesta/app/src/main/res/mipmap-hdpi/ic_launcher.png"
     },
     {
-        "merged": "C:\\Users\\David\\Documents\\GitHub\\Proyecto\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4\\ic_launcher.png",
-        "source": "C:\\Users\\David\\Documents\\GitHub\\Proyecto\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+        "merged": "/home/david/AndroidStudioProjects/juegpFiesta/app/build/intermediates/res/merged/debug/mipmap-hdpi-v4/images.jpeg",
+        "source": "/home/david/AndroidStudioProjects/juegpFiesta/app/src/main/res/mipmap-hdpi/images.jpeg"
     }
 ]

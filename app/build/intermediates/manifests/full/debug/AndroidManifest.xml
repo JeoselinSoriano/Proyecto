@@ -21,7 +21,17 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name="com.example.estudiante.proyecto.pantallaInicio" />
+        <activity
+            android:name="com.example.estudiante.proyecto.pantallaInicio"
+            android:screenOrientation="landscape"
+            android:theme="@android:style/Theme.NoTitleBar.Fullscreen" />
+        <activity
+            android:name="com.example.estudiante.proyecto.menu"
+            android:screenOrientation="landscape"
+            android:theme="@android:style/Theme.NoTitleBar.Fullscreen" />
+        <activity android:name="com.example.estudiante.proyecto.instruccion" />
+        <activity android:name="com.example.estudiante.proyecto.pantallauno" />
+        <activity android:name="com.example.estudiante.proyecto.niveluno" />
     </application>
 
 </manifest>
