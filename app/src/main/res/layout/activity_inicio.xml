@@ -18,5 +18,8 @@
         android:id="@+id/pBar"
         android:layout_alignParentBottom="true"
         android:layout_centerHorizontal="true"
-        android:layout_marginBottom="99dp" />
+        android:layout_marginBottom="99dp"
+        android:progressTint="#f7f0f0"
+        android:indeterminate="false" />
+
 </RelativeLayout>
