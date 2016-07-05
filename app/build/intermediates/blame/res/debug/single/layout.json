@@ -64,12 +64,12 @@
         "source": "/home/david/AndroidStudioProjects/juegpFiesta/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_activity_chooser_view.xml"
     },
     {
-        "merged": "/home/david/AndroidStudioProjects/juegpFiesta/app/build/intermediates/res/merged/debug/layout/abc_select_dialog_material.xml",
-        "source": "/home/david/AndroidStudioProjects/juegpFiesta/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_select_dialog_material.xml"
-    },
-    {
         "merged": "/home/david/AndroidStudioProjects/juegpFiesta/app/build/intermediates/res/merged/debug/layout/notification_media_cancel_action.xml",
         "source": "/home/david/AndroidStudioProjects/juegpFiesta/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "/home/david/AndroidStudioProjects/juegpFiesta/app/build/intermediates/res/merged/debug/layout/abc_select_dialog_material.xml",
+        "source": "/home/david/AndroidStudioProjects/juegpFiesta/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_select_dialog_material.xml"
     },
     {
         "merged": "/home/david/AndroidStudioProjects/juegpFiesta/app/build/intermediates/res/merged/debug/layout/abc_action_bar_view_list_nav_layout.xml",
@@ -102,6 +102,10 @@
     {
         "merged": "/home/david/AndroidStudioProjects/juegpFiesta/app/build/intermediates/res/merged/debug/layout/abc_action_menu_layout.xml",
         "source": "/home/david/AndroidStudioProjects/juegpFiesta/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "/home/david/AndroidStudioProjects/juegpFiesta/app/build/intermediates/res/merged/debug/layout/pantallauno.xml",
+        "source": "/home/david/AndroidStudioProjects/juegpFiesta/app/src/main/res/layout/pantallauno.xml"
     },
     {
         "merged": "/home/david/AndroidStudioProjects/juegpFiesta/app/build/intermediates/res/merged/debug/layout/notification_template_media.xml",

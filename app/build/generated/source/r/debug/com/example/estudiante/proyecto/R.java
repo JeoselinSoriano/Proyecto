@@ -19,6 +19,8 @@ public final class R {
         public static final int abc_slide_in_top=0x7f050007;
         public static final int abc_slide_out_bottom=0x7f050008;
         public static final int abc_slide_out_top=0x7f050009;
+        public static final int fade_in=0x7f05000a;
+        public static final int fade_out=0x7f05000b;
     }
     public static final class attr {
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
@@ -1796,10 +1798,11 @@ containing a value of this type.
         public static final int notification_template_media=0x7f040024;
         public static final int notification_template_part_chronometer=0x7f040025;
         public static final int notification_template_part_time=0x7f040026;
-        public static final int select_dialog_item_material=0x7f040027;
-        public static final int select_dialog_multichoice_material=0x7f040028;
-        public static final int select_dialog_singlechoice_material=0x7f040029;
-        public static final int support_simple_spinner_dropdown_item=0x7f04002a;
+        public static final int pantallauno=0x7f040027;
+        public static final int select_dialog_item_material=0x7f040028;
+        public static final int select_dialog_multichoice_material=0x7f040029;
+        public static final int select_dialog_singlechoice_material=0x7f04002a;
+        public static final int support_simple_spinner_dropdown_item=0x7f04002b;
     }
     public static final class mipmap {
         public static final int ic_launcher=0x7f030000;
