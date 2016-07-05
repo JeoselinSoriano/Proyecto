@@ -1,10 +1,10 @@
 [
     {
-        "merged": "/home/estudiante/AndroidStudioProjects/Proyectov1/app/build/intermediates/res/merged/debug/mipmap-hdpi-v4/images.jpeg",
-        "source": "/home/estudiante/AndroidStudioProjects/Proyectov1/app/src/main/res/mipmap-hdpi/images.jpeg"
+        "merged": "/home/estudiante/Documentos/Proyecto/app/build/intermediates/res/merged/debug/mipmap-hdpi-v4/ic_launcher.png",
+        "source": "/home/estudiante/Documentos/Proyecto/app/src/main/res/mipmap-hdpi/ic_launcher.png"
     },
     {
-        "merged": "/home/estudiante/AndroidStudioProjects/Proyectov1/app/build/intermediates/res/merged/debug/mipmap-hdpi-v4/ic_launcher.png",
-        "source": "/home/estudiante/AndroidStudioProjects/Proyectov1/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+        "merged": "/home/estudiante/Documentos/Proyecto/app/build/intermediates/res/merged/debug/mipmap-hdpi-v4/images.jpeg",
+        "source": "/home/estudiante/Documentos/Proyecto/app/src/main/res/mipmap-hdpi/images.jpeg"
     }
 ]
