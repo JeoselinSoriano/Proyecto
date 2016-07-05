@@ -2,5 +2,9 @@
     {
         "merged": "/home/david/AndroidStudioProjects/juegpFiesta/app/build/intermediates/res/merged/debug/mipmap-xxhdpi-v4/ic_launcher.png",
         "source": "/home/david/AndroidStudioProjects/juegpFiesta/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/estudiante/AndroidStudioProjects/Proyectov1/app/build/intermediates/res/merged/debug/mipmap-xxhdpi-v4/ic_launcher.png",
+        "source": "/home/estudiante/AndroidStudioProjects/Proyectov1/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
     }
 ]
